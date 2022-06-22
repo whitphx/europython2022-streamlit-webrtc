@@ -4,10 +4,11 @@
   * DeepSpeech app with the new API
   * Video chat with the new API
 * Create examples
+  * QR code
   * MediaPipe
 * Prepare TURN server
 * Deploy all the demo both on cloud and local
-
+* Set up screen sharing from Android to Mac
 ## Set up talk
 * Kill heavy processes, or reboot the machine
 * Set display resolution lower or zoom up the browser and the editor
