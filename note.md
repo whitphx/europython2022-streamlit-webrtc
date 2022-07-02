@@ -27,3 +27,6 @@
   * Asking questions and for raising hands is one option but gray area
 * If no one asks questions in the Q&A time, add some talks to answer potential questions and say "please ask me later".
 * If you can't answer the question, say "send it me later via email" or "can we discuss it after the talk? sorry I can't listen as English is not my first language."
+
+## Feedback
+* スクリーンか画面を見て喋ってる感じがする。もっと聴衆を見て話しかける感じで。目線と抑揚。
