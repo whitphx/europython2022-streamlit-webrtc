@@ -10,6 +10,7 @@
 * Deploy all the demo both on cloud and local
 * Set up screen sharing from Android to Mac
 ## Set up talk
+* https://www.dtp-transit.jp/utility/post_1465.html
 * Kill heavy processes, or reboot the machine
 * Set display resolution lower or zoom up the browser and the editor
 * Open necessary pages in a private window
@@ -19,7 +20,7 @@
 * Open editor
 * Launch demos on local as fallbacks
 * Run all the demos once
-* Shutdown notifications
+* Shutdown notifications: Turn on "集中モード"
 * Show the following windows in one desktop
   * Editor
   * Browser
